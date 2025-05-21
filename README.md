@@ -1,11 +1,11 @@
 ## Greetings 😎👋
 
-- 🔭 I’m helping to bring emerging AI technologies to run on-device on Apple & Meta devices, to make awesome Apps 😍
+- 🔭 I’m helping to bring emerging AI technologies to run on-device with Apple & Meta devices, to make awesome Apps 😍
     - Vision Language Models (VLMs)
     - Semantic Segmentation
     - Speech
     - Large Language Models (LLMs) w/RAG
-- 🌱 I’m currently learning about anything AI that might working on-device
+- 🌱 I’m currently learning about anything AI that might work on-device
 - 👯 I’m looking to collaborate on anything AI that might work on-device
 - 🤔 Much like other people, I’m looking for help with converting models between formats
 
