@@ -1,6 +1,6 @@
 ## Greetings 😎👋
 
-- 🔭 I’m helping to bring emerging AI technologies to run on-device with Apple & Meta devices, to make awesome Apps 😍
+- 🔭 I’m helping to bring emerging AI technologies to run on-device with Apple & Meta devices 😍
     - Vision Language Models (VLMs)
     - Semantic Segmentation
     - Speech
