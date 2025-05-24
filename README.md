@@ -7,7 +7,7 @@
     - Large Language Models (LLMs) w/RAG
 - 🌱 I’m currently learning about anything AI that might work on-device
 - 👯 I’m looking to collaborate on anything AI that might work on-device
-- 🤔 Much like other people, I’m looking for help with converting models between formats
+- 🤔 I’m looking for help with converting models between formats
 
 <!--
 **on-device-ml/on-device-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
