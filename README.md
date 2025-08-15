@@ -1,14 +1,13 @@
 ## Greetings 😎👋
 
-- 🔭 I’m helping to bring emerging AI technologies to run on-device with Apple & Meta devices 😍
+- 🔭 I’m bringing emerging ML technologies to highly useful services & applications 😍
+- My current interests are
+    - Model Post-training
     - Vision Language Models (VLMs)
+    - Multimodal Large Language Models (MLLMs)
+    - Object Detection
     - Semantic Segmentation
     - Speech
-    - Large Language Models (LLMs) w/RAG
-- 🌱 I’m currently learning about anything AI that might work on-device
-- 👯 I’m looking to collaborate on anything AI that might work on-device
-- 🤔 I’m looking for help with converting models between formats
-
 <!--
 **on-device-ml/on-device-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
