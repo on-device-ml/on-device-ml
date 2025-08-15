@@ -3,7 +3,7 @@
 - 🔭 I’m bringing emerging ML technologies to highly useful services & applications 😍
 - My current interests are
     - Model Post-training
-    - Large-scale systems for ML evaluation & development
+    - Large-scale distributed systems for ML evaluation & development
     - Vision Language Models (VLMs)
     - Multimodal Large Language Models (MLLMs)
     - Object Detection
